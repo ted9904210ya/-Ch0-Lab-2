@@ -12,8 +12,13 @@ namespace lab2
         {
             int a = 1;
             Console.WriteLine(a);
+
             int b = 1;
             Console.WriteLine(b);
+
+            int c = 1;
+            Console.WriteLine(c);
+
         }
     }
 }
